@@ -1,0 +1,1 @@
+Root cause: me. I deleted the users table to fix a typo in it. The typo is gone. So are the users.
